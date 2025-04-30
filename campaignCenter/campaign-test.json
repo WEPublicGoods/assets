@@ -4,18 +4,34 @@
         {
             "title": "Soneium creators contest",
             "description": "5,000,000 ACS for soneium creators contest.",
-            "timeStr": "2025-05-31 13:00 (UTC)",
-            "endTime": 1748696400,
+            "timeStr": "2025-05-01 13:00 (UTC)",
+            "endTime": 1746104400,
             "href": "/memeContest",
-            "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/creators_contest.png"
+            "image": "https://raw.githubusercontent.com/WEPublicGoods/assets/refs/heads/main/images/campaignCenter/creators_contest.png"
+        },
+        {
+            "title": "referral",
+            "description": "Join our referral program and earn up to 15% in rebates, 10% discounts, and a $3,000 bonus!",
+            "timeStr": "",
+            "endTime": "999999999999",
+            "href": "/referrals",
+            "image": "https://raw.githubusercontent.com/WEPublicGoods/assets/refs/heads/main/images/campaignCenter/referrals.png"
         },
         {
             "title": "Trading compete",
-            "description": "160,000 SoneFi Points for trading compete. 750,000 ACS + Trader King Badges",
-            "timeStr": "2025-04-18 15:00 (UTC)",
-            "endTime": 1744989300,
+            "description": "160,000 SoneFi Points for trading compete. 500,000 ACS + Trader King Badges",
+            "timeStr": "",
+            "endTime": 999999999999,
             "href": "/compete",
-            "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/trading_compete.png"
+            "image": "https://raw.githubusercontent.com/WEPublicGoods/assets/refs/heads/main/images/campaignCenter/trading_compete.png"
+        },
+        {
+            "title": "LP king",
+            "description": "Win a Liquidity King on SoneFi 👑 to earn 👑 LP KING badge + future rewards.",
+            "timeStr": "",
+            "endTime": "999999999999",
+            "href": "/addSPLPLiquidity",
+            "image": "https://raw.githubusercontent.com/WEPublicGoods/assets/refs/heads/main/images/campaignCenter/lp.png"
         },
         {
             "title": "completing quests",
@@ -23,7 +39,7 @@
             "timeStr": "2025-05-15 23:59 (UTC)",
             "endTime": 1747324740,
             "href": "https://superboard.xyz/quests/assemble-on-soneium-meet-sonefi",
-            "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/superboard.png"
+            "image": "https://raw.githubusercontent.com/WEPublicGoods/assets/refs/heads/main/images/campaignCenter/superboard.png"
         },
         {
             "title": "Astar Contribution Score (ACS) Campaign!",
@@ -31,13 +47,13 @@
             "timeStr": "2025-05-31 13:00 (UTC)",
             "endTime": 1748696400,
             "href": "/pointsDashboard",
-            "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/acs.png"
+            "image": "https://raw.githubusercontent.com/WEPublicGoods/assets/refs/heads/main/images/campaignCenter/acs.png"
         }
     ],
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 0
+      "patch": 1
     }
   }
   
