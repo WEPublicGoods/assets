@@ -1,0 +1,43 @@
+{
+    "name": "Campaign Center",
+    "user": [
+        {
+            "title": "Soneium creators contest",
+            "description": "5,000,000 ACS for soneium creators contest.",
+            "timeStr": "2025-05-31 13:00 (UTC)",
+            "endTime": 1748696400,
+            "href": "/memeContest",
+            "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/creators_contest.png"
+        },
+        {
+            "title": "Trading compete",
+            "description": "160,000 SoneFi Points for trading compete. 750,000 ACS + Trader King Badges",
+            "timeStr": "2025-04-18 15:00 (UTC)",
+            "endTime": 1744989300,
+            "href": "/compete",
+            "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/trading_compete.png"
+        },
+        {
+            "title": "completing quests",
+            "description": "Claim your share of $25,000 in rewards by completing quests.",
+            "timeStr": "2025-05-15 23:59 (UTC)",
+            "endTime": 1747324740,
+            "href": "https://superboard.xyz/quests/assemble-on-soneium-meet-sonefi",
+            "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/superboard.png"
+        },
+        {
+            "title": "Astar Contribution Score (ACS) Campaign!",
+            "description": "100M $ASTR in the Astar Contribution Score (ACS) Campaign.",
+            "timeStr": "2025-05-31 13:00 (UTC)",
+            "endTime": 1748696400,
+            "href": "/pointsDashboard",
+            "image": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/assets/acs.png"
+        }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
+  
